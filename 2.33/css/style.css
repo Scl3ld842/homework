@@ -1,0 +1,29 @@
+.txt1 {
+    font-family: "Open sans", sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 30px;
+    font-style: italic;
+}
+
+.txt2 {
+    text-decoration: line-through;
+    font-size: 25px;
+}
+
+.txt3 {
+    font-size: 30px;
+    text-align: center;
+}
+
+.txt4 {
+    word-spacing: 30px;
+    text-decoration: overline wavy #b307f7;
+    color: #b307f7;
+}
+
+.txt5 {
+    letter-spacing: 5px;
+    text-decoration: underline 5px;
+
+}
